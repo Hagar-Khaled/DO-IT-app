@@ -6,6 +6,11 @@ A beautiful, modern todo/goal tracking mobile application built with React Nativ
 ![Expo](https://img.shields.io/badge/Expo-54.0.33-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.2-blue)
 
+## Project Demo Video aand report
+
+[Click here to watch the demo](https://youtube.com/shorts/q7Tiyyu7aj4?feature=share)
+[Click here to check the report](https://drive.google.com/file/d/1cCXjWbC6U4n54quNY0oAmAwmI-Cg_hvY/view?usp=drive_link)
+
 ## Features ✨
 
 -  **Create & Manage Goals** - Add new goals with descriptions
