@@ -10,6 +10,7 @@ A beautiful, modern todo/goal tracking mobile application built with React Nativ
 
 [Click here to watch the demo](https://youtube.com/shorts/q7Tiyyu7aj4?feature=share)
 [Click here to check the report](https://drive.google.com/file/d/1cCXjWbC6U4n54quNY0oAmAwmI-Cg_hvY/view?usp=drive_link)
+[Click here to check the app on snack](https://snack.expo.dev/@hagarkhaled/do-it)
 
 ## Features ✨
 
